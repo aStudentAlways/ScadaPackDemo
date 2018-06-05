@@ -63,7 +63,7 @@ int main(void)
 		sprintf(dbgMsg, "Program downloaded at %02d-%02d-%d %d:%02d:%02d.%03d, total count %d, count since start %d\r\n",
 			pNvMemory->downloadTime.month,
 			pNvMemory->downloadTime.day,
-			pNvMemory->downloadTime.year,
+			pNvMemory->downloadTime.year + 2000,
 			pNvMemory->downloadTime.hour,
 			pNvMemory->downloadTime.minute,
 			pNvMemory->downloadTime.second,
