@@ -11,5 +11,5 @@ Note that SCADAPack CTools are licensed, and the archive does not include the <C
 
 -------------------------------------------
 ### May 6, 2018
-This is the initial release. Details are [here](https://parajkayande.com/).
+This is the initial release. Details are [here](https://parajkayande.com/2018/05/24/scadapack-c-demo/).
 
