@@ -2,6 +2,10 @@
    SCADAPack 350 / SCADASense 4203 C++ Application Main Program
    Copyright 2007, Control Microsystems Inc.
    -------------------------------------------------------------------- */
+/* --------------------------------------------------------------------
+   SCADAPack 350 / SCADASense 4203 C++ Application Main Program
+   Copyright 2007, Control Microsystems Inc.
+   -------------------------------------------------------------------- */
 #include "ctools.h"
 #include "nvMemory.h"
 #include "debug.h"
